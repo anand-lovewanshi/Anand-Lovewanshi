@@ -68,9 +68,9 @@ Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Scienc
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
-### 🌐 Social Links
 
-</br>
+<h4> 🌐 Social Links</h4>
+
 </hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anand-lovewanshi-5b0162283)

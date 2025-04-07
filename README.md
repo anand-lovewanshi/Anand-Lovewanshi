@@ -69,7 +69,7 @@ Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Scienc
 
 
 ### 🌐 Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](linkedin.com/in/anand-lovewanshi-5b0162283)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/your-username/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.netlify.app)
 

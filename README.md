@@ -2,26 +2,14 @@
 </br>
 </hr>
 <h3>👨🏻‍💻 About me : </h3>
+</hr>
 <p>
 Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Science and Engineering at Sri Aurobindo Institute Of Technology. I'm a passionate Full Stack Developer with over 1 years' of experience in designing and developing scalable web applications. I'm proficient in JavaScript, React.js, Node.js, mySQL, and I enjoy creating responsive UI/UX interfaces and optimizing databases like Firebase and MongoDB. I take pride in my problem-solving and collaboration abilities. Always eager to learn and keep up with the latest technologies, I am committed to delivering high-quality code. I explore different frameworks, applications in my free time. I'm excited to contribute to innovative projects and drive digital innovation.</p>
 
+<br>
+<h3>💻 Tech Stack</h3>
+</hr>
 
-
-<h3 align="center">Aspiring Frontend Developer | Passionate about UI/UX | JavaScript & React Enthusiast</h3>
-
-- 🌱 I’m currently working on **a Task Management App using React**
-
-- 👨‍💻 My Portfolio: [anandlovewanshi.netlify.app](https://your-portfolio-link.netlify.app)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Material UI**
-
-- 📫 How to reach me: **anandlovewanshi2000@gmail.com*
-
-- 📄 Know about my experiences: [Resume](https://drive.google.com/your-resume-link)
-
----
-
-### 🛠️ Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)

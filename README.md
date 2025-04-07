@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anand Lovewanshi</h1>
 </br>
 </hr>
-<h3>👨🏻‍💻 About me : </h3>
+<h3 >👨🏻‍💻 About me : </h3>
 </hr>
 <p>
 Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Science and Engineering at Sri Aurobindo Institute Of Technology. I'm a passionate Full Stack Developer with over 1 years' of experience in designing and developing scalable web applications. I'm proficient in JavaScript, React.js, Node.js, mySQL, and I enjoy creating responsive UI/UX interfaces and optimizing databases like Firebase and MongoDB. I take pride in my problem-solving and collaboration abilities. Always eager to learn and keep up with the latest technologies, I am committed to delivering high-quality code. I explore different frameworks, applications in my free time. I'm excited to contribute to innovative projects and drive digital innovation.</p>
 
 <br>
-<h3>💻 Tech Stack</h3>
+<h1 align="center">💻 Tech Stack</h1>
 </hr>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

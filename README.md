@@ -80,4 +80,5 @@ Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Scienc
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.netlify.app)
 
 <h4> 🏆 GitHub Trophies </h4>
-![](https://github-profile-trophy.vercel.app/?username=ashwani2529&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)

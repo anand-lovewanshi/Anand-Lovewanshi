@@ -81,4 +81,4 @@ Hello! I'm Anand Lovewanshi, 22 Years old, I have Done B.Tech in Computer Scienc
 
 <h4> 🏆 GitHub Trophies </h4>
 
-![](https://github-profile-trophy.vercel.app/?username=&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=https://github.com/anand-lovewanshi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
